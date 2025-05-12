@@ -1,0 +1,29 @@
+{
+  "slug": "elevation-hidden-privileges-in-windows",
+  "title": {
+    "es": "ELEVATION 2 - Privilegios Ocultos en Windows",
+    "en": "ELEVATION 2 - Hidden Privileges in Windows"
+  },
+  "preview": "https://github.com/4GeeksAcademy/capture-flag-escalation-of-privileges2/blob/main/assets/preview.png?raw=true",
+  "solution": {
+    "us":"https://github.com/4GeeksAcademy/capture-flag-escalation-of-privileges2/blob/solution/SOLUTION.md",
+    "es": "https://github.com/4GeeksAcademy/capture-flag-escalation-of-privileges2/blob/solution/SOLUTION.es.md"},
+  "technologies": [
+    "cybersecurity",
+    "windows",
+    "smb",
+    "winrm",
+    "hydra",
+    "ssh",
+    "red-team",
+    "owasp-a05-security-misconfiguration",
+    "owasp-a07-identification-authentication-failures"
+  ],
+  "difficulty": "intermediate",
+  "duration": 2,
+  "projectType": "capture-the-flag",
+  "description": {
+    "es": "Explora un servidor Windows corporativo, identifica malas prácticas de seguridad y realiza fuerza bruta para acceder como un usuario privilegiado y escalar a administrador.",
+    "en": "Explore a corporate Windows server, identify poor security practices, and perform brute force attacks to access a privileged user and escalate to administrator."
+  }
+}
