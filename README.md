@@ -16,7 +16,7 @@ In this lab, you will learn:
 
 Follow these steps to begin:
 
-1. **Download the virtual machine** from this [link]().
+1. **Download the virtual machine** from this [link](https://storage.googleapis.com/cybersecurity-machines/elevation-windows-machine.ova).
 2. **Import the machine** into your preferred virtualization software (VirtualBox, VMware, etc.).
 3. Once the machine is running, you're ready to start the lab!
 
