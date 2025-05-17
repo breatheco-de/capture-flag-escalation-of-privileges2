@@ -25,5 +25,15 @@
   "description": {
     "es": "Explora un servidor Windows corporativo, identifica malas prácticas de seguridad y realiza fuerza bruta para acceder como un usuario privilegiado y escalar a administrador.",
     "en": "Explore a corporate Windows server, identify poor security practices, and perform brute force attacks to access a privileged user and escalate to administrator."
+  },
+  {
+  	"delivery": {
+  		"instructions": {
+  			"us": "Paste the flag you found with format FLAG{hash}",
+  			"es": "Agrega el la bandera que encontraste con el formato FLAG{hash}"
+  		},
+  		"formats": ["flags"],
+  		"quantity": 2
+  	}
   }
 }
