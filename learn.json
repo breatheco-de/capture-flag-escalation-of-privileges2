@@ -33,7 +33,7 @@
       "es": "Agrega el la bandera que encontraste con el formato FLAG{hash}"
     },
     "formats": ["flags"],
-    "quantity": 2
+    "quantity": 1
   }
   
 }
